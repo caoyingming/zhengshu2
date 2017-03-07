@@ -8,13 +8,15 @@ body{
 	height: 100%;
 
 }
-
+i{
+	font-style: normal;
+}
 .conbg{
 	background: url('../image/bg.jpg') no-repeat center;
 	width: 100%;
 	height: 100%;
 	background-size: 100% 100%;
-	
+	padding-bottom: 0.8rem;
 	
 	display: inline-block;
 }
@@ -45,4 +47,41 @@ body{
 }
 .conbg .p1{
 	margin-top: 0.5rem;
+}
+.conbg .zhang{
+	margin-top: 0.2rem;
+}
+.conbg .zhang .L{
+	float: left;
+	background: url('../image/zhang1.png') no-repeat;
+	width: 2.13rem;
+	height: 1.38rem;
+	background-size: 100% 100%;
+	margin-left: 1.5rem;
+
+}
+.conbg .zhang .R{
+	float: right;
+	background: url('../image/zhang2.png') no-repeat;
+	width: 2.17rem;
+	height: 1.39rem;
+	background-size: 100% 100%;
+	margin-right: 1.5rem;
+
+}
+.conbg .last {
+	margin-top: 0.12rem;
+}
+.conbg .last .L{
+	font-size: 0.14rem;
+	margin-left: 1.5rem;
+	float: left;
+}
+.conbg .last .R{
+	font-size: 0.14rem;
+	margin-right: 1.5rem;
+	float: right;
+}
+.conbg .last .L .span1{
+	margin-right: 0.24rem
 }
