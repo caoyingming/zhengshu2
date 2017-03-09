@@ -49,6 +49,7 @@ i{
 }
 .conbg .p1{
 	margin-top: 30px;
+	line-height: 28px;
 }
 .conbg .zhang{
 	margin-top: 20px;
@@ -72,7 +73,7 @@ i{
 
 }
 .conbg .last {
-	margin-top: 12px;
+	margin-top: -12px;
 }
 .conbg .last .L{
 	font-size: 14px;
