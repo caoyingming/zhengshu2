@@ -21,14 +21,16 @@ i{
 .wrap h6{
 	margin-left: 30px;
     margin-top: 20px;
-    font-size: 30px;
+    font-size: 46px;
     color: #333;
-	font-family: "Microsoft YaHei"
+	font-family: "Microsoft YaHei";
+	font-weight: normal;
 }
 .wrap .hint{
 	text-align:  center;
-	font-size: 30px;
+	font-size: 46px;
 	color: #000;
+	margin-top: 50px;
 }
 .conbg{
 	background: url('../image/bg.jpg') no-repeat center;
@@ -105,12 +107,12 @@ i{
 	float: right;
 }
 .wrap .load .Android{
-	width: 296px;
-	height: 88px;
+	width: 490px;
+	height: 146px;
 	border: 1px solid #9c9c9c;
-	line-height: 88px;
+	line-height: 146px;
 	text-align: center;
-	font-size: 28px;
+	font-size: 46px;
 	display: inline-block;
 	color: #000;
 	text-decoration: none;
@@ -118,14 +120,15 @@ i{
 }
 .wrap .load {
 	text-align: center;
+	margin-top: 95px;
 }
 .wrap .load .ios{
-	width: 296px;
-	height: 88px;
+	width: 490px;
+	height: 146px;
 	border: 1px solid #9c9c9c;
-	line-height: 88px;
+	line-height: 146px;
 	text-align: center;
-	font-size: 28px;
+	font-size: 46px;
 	display: inline-block;
 	color: #000;
 	text-decoration: none;
